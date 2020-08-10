@@ -9,6 +9,12 @@ public class RESTAPITest {
 		System.out.println("postJira");
 		System.out.println("postJira");
 		System.out.println("postJira");
+		System.out.println("postJira");
+		System.out.println("postJira");
+		System.out.println("postJira");
+		System.out.println("postJira");
+		System.out.println("postJira");
+		System.out.println("postJira");
 	}
 	
 	@Test
